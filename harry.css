@@ -1,0 +1,16 @@
+main {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    gap: 20px;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+article{
+    padding:20px;
+    border: 3px solid #27f03d;
+    box-shadow: 8px 8px #27f03d;
+    font-size: large;
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+}
